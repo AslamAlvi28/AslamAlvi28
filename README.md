@@ -12,28 +12,12 @@
 <div align="center">
   <a href="https://linkedin.com/in/aslam-alvi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact.aslamalvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-11%2B_Years-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📍_New_Delhi-India-white?style=for-the-badge"/>
 </div>
 
 <br/>
 
-<!-- GitHub Stats Row — shields.io dynamic badges, no third-party hosting -->
-<div align="center">
-
-![followers](https://img.shields.io/github/followers/AslamAlvi28?style=for-the-badge&color=4a9eff&labelColor=0d1117&label=Followers)
-![stars](https://img.shields.io/github/stars/AslamAlvi28?style=for-the-badge&color=ff9900&labelColor=0d1117&label=Total%20Stars)
-![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAslamAlvi28&query=public_repos&style=for-the-badge&color=22c55e&labelColor=0d1117&label=Public%20Repos)
-
-</div>
-
 <br/>
-
-<!-- Streak Stats — demolab, most reliable streak provider -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AslamAlvi28&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1f2e&ring=4a9eff&fire=ff9900&currStreakLabel=4a9eff&sideLabels=888780&dates=555450" width="60%"/>
-</div>
 
 ---
 
@@ -178,14 +162,6 @@ Jul 2014 ──► IDEMIA (Noida)
 | 🌍 Microsoft Imagine Cup — **Top 22 / 22,000+ teams** | Global | 2014 |
 | ✈️ International handover visit | Meyreuil, France | Idemia |
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AslamAlvi28&theme=github-compact&bg_color=0d1117&color=4a9eff&line=4a9eff&point=ff9900&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
