@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Aslam Alvi
 
-### Senior DevOps & Platform Engineer
+### Technical Lead DevOps & Platform Engineer
 #### 11+ Years · AWS · Kubernetes · CI/CD · 300+ Microservices
 
 </div>
@@ -25,7 +25,7 @@
 
 ```yaml
 name:     Aslam Alvi
-role:     Senior Software Engineer — DevOps & Platform Engineering
+role:     Technical Lead Engineer — DevOps & Platform Engineering
 location: New Delhi, India
 years:    11+
 
